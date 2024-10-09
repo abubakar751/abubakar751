@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Abu Bakar
+🌟 Hey, I'm Abu Bakar 👨‍💻
 Full Stack Developer | Passionate about building scalable apps
 
 🛠️ Skills:
