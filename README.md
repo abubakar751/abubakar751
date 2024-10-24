@@ -1,7 +1,7 @@
 
 
 🌟 Hey, I'm Abu Bakar 👨‍💻
-Full Stack Developer | Passionate about building scalable apps
+Java Developer | Passionate about building scalable apps
 
 🛠️ Skills:
 Languages: Java, JavaScript, TypeScript
