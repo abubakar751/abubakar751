@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India, dedicated to pushing the boundaries of innovation and technology</h3>
 
 
-<img align="center" alt="Abu Bakar" width="80" src="https://this-is-abu-bakar.netlify.app/image/photo.jpg">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar751&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar751" /> </p>
