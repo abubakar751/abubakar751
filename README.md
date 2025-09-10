@@ -20,14 +20,14 @@
 - 🌱 Currently diving deep into **Microservices & Cloud**  
 - 👨‍💻 Explore my work: [GitHub Projects](https://github.com/abubakar751)  
 - 📫 Connect via: **abubakartechsak01@gmail.com**  
-- 🌍 Portfolio: [this-is-abu-bakar.netlify.app](https://this-is-abu-bakar.netlify.app)  
+- 🌍 Portfolio: [https://im-abu-bakar.netlify.app/](https://im-abu-bakar.netlify.app/)  
 - ⚡ Fun Fact: *“I turn ☕ coffee into 💻 code.”*  
 
 ---
 
 ### 🤝 Let's Connect  
 <p align="center">
-  <a href="https://this-is-abu-bakar.netlify.app" target="_blank">
+  <a href="https://im-abu-bakar.netlify.app/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0000FF/internet--v1.png" alt="Website" width="40"/>
   </a>
   <a href="https://www.instagram.com/its__abu_bakar_/" target="_blank">
