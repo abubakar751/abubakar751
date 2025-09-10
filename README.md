@@ -1,36 +1,78 @@
-<h1 align="center">Hello, Welcome to My Profile 👋! I'm Abu Bakar</h1>
-<h3 align="center">A passionate Software Engineer from India, dedicated to pushing the boundaries of innovation and technology</h3>
 
+<!-- Header Section -->
+<h1 align="center">✨ Hello World! I'm Abu Bakar ✨</h1>
+<h3 align="center">🚀 Software Engineer | Java | Spring Boot | Microservices | Web Developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>
+</p>
 
+---
 
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Passionate+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Lifelong+Learner+%26+Innovator;Open-Source+Contributor"/>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar751&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar751" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🌟 About Me  
+- 🌱 Currently diving deep into **Microservices & Cloud**  
+- 👨‍💻 Explore my work: [GitHub Projects](https://github.com/abubakar751)  
+- 📫 Connect via: **abubakartechsak01@gmail.com**  
+- 🌍 Portfolio: [this-is-abu-bakar.netlify.app](https://this-is-abu-bakar.netlify.app)  
+- ⚡ Fun Fact: *“I turn ☕ coffee into 💻 code.”*  
 
-- 🌱 I’m currently learning **Microservicess**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/abubakar751](https://github.com/abubakar751)
-
-- 📫 How to reach me **abubakartechsak01@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://this-is-abu-bakar.netlify.app" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Website Icon" width="40" height="40"/>
+### 🤝 Let's Connect  
+<p align="center">
+  <a href="https://this-is-abu-bakar.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0000FF/internet--v1.png" alt="Website" width="40"/>
   </a>
-  
-  <!-- Instagram Link Icon -->
-  <a href="https://www.instagram.com/accounts/login/?next=%2Fits__abu_bakar_%2F&source=omni_redirect" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a></p>
+  <a href="https://www.instagram.com/its__abu_bakar_/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=E4405F" alt="Instagram" width="40"/>
+  </a>
+  <a href="mailto:abubakartechsak01@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=EA4335" alt="Gmail" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0A66C2" alt="LinkedIn" width="40"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar751&show_icons=true&locale=en&layout=compact" alt="abubakar751" /></p>
+### 🛠️ Tech Stack  
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,git,github,c,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakar751&show_icons=true&locale=en" alt="abubakar751" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar751&" alt="abubakar751" /></p>
+### 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar751&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakar751&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abubakar751&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+### 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar751&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+### 💡 Coder's Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”+-+Cory+House" alt="Coder Quote"/>
+</p>
+
+---
+---
+
+⭐ *“Building scalable solutions, one commit at a time.”*  
