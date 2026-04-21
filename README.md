@@ -1,7 +1,11 @@
-
 <!-- Header Section -->
 <h1 align="center">✨ Hello World! I'm Abu Bakar ✨</h1>
-<h3 align="center">🚀 Software Engineer | Java | Spring Boot | Microservices | Web Developer</h3>
+<h3 align="center">🚀 Software Developer | Java | Spring Boot | Microservices | Web Developer</h3>
+
+<!-- ✅ Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakar751&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Coding GIF"/>
@@ -11,7 +15,7 @@
 
 <!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Passionate+Software+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;Lifelong+Learner+%26+Innovator;Open-Source+Contributor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C2FF&center=true&vCenter=true&width=600&height=60&lines=Passionate+Software+Developer;Java+%7C+Spring+Boot+%7C+Microservices;Lifelong+Learner+%26+Innovator;Open-Source+Contributor"/>
 </p>
 
 ---
@@ -72,7 +76,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=“Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.”+-+Cory+House" alt="Coder Quote"/>
 </p>
 
----
 ---
 
 ⭐ *“Building scalable solutions, one commit at a time.”*  
